@@ -1,0 +1,241 @@
+﻿PATIENT_ID,SEX,SMOKER,TREATMENT_TYPE,PFS_MONTHS,PFS_STATUS
+P-0000012,Female,Ever,Combination,27.2,0:Not Progressed
+P-0000082,Male,Ever,Monotherapy,14.5,1:Progressed
+P-0000208,Female,Ever,Monotherapy,4.17,1:Progressed
+P-0000235,Male,Ever,Monotherapy,0.6,1:Progressed
+P-0000299,Male,Ever,Combination,1.63,1:Progressed
+P-0000302,Male,Ever,Monotherapy,4.93,0:Not Progressed
+P-0000363,Male,Never,Monotherapy,1.2,1:Progressed
+P-0000458,Male,Ever,Monotherapy,1.73,1:Progressed
+P-0000563,Male,Never,Monotherapy,1.5,1:Progressed
+P-0000604,Male,Never,Combination,11.83,1:Progressed
+P-0000670,Female,Ever,Combination,2.33,1:Progressed
+P-0000681,Female,Ever,Monotherapy,5.47,1:Progressed
+P-0000689,Male,Ever,Monotherapy,2.57,1:Progressed
+P-0000731,Female,Ever,Monotherapy,10,1:Progressed
+P-0000826,Male,Ever,Combination,3.8,1:Progressed
+P-0000894,Male,Never,Monotherapy,5.27,1:Progressed
+P-0000913,Female,Never,Monotherapy,3.5,1:Progressed
+P-0000978,Female,Never,Monotherapy,2.1,1:Progressed
+P-0001093,Male,Ever,Combination,22.43,1:Progressed
+P-0001121,Female,Ever,Monotherapy,1.17,1:Progressed
+P-0001171,Male,Ever,Monotherapy,13.17,1:Progressed
+P-0001340,Male,Ever,Monotherapy,5.33,1:Progressed
+P-0001365,Male,Ever,Monotherapy,1.87,1:Progressed
+P-0001385,Female,Ever,Combination,30.43,0:Not Progressed
+P-0001633,Female,Never,Monotherapy,0.67,1:Progressed
+P-0001665,Female,Never,Monotherapy,3.07,1:Progressed
+P-0001830,Female,Ever,Combination,4.63,1:Progressed
+P-0001836,Female,Ever,Monotherapy,1.77,1:Progressed
+P-0001867,Male,Ever,Monotherapy,4.2,1:Progressed
+P-0001955,Female,Never,Monotherapy,3.03,1:Progressed
+P-0001977,Male,Ever,Monotherapy,1.3,1:Progressed
+P-0002028,Female,Ever,Monotherapy,25.03,0:Not Progressed
+P-0002151,Female,Ever,Monotherapy,9.6,1:Progressed
+P-0002160,Male,Ever,Monotherapy,1.27,1:Progressed
+P-0002225,Male,Never,Monotherapy,2.57,1:Progressed
+P-0002247,Female,Ever,Monotherapy,2.77,1:Progressed
+P-0002252,Female,Ever,Monotherapy,4.27,1:Progressed
+P-0002295,Female,Never,Monotherapy,1.93,1:Progressed
+P-0002320,Male,Never,Monotherapy,1.77,1:Progressed
+P-0002351,Female,Ever,Monotherapy,5.37,1:Progressed
+P-0002444,Male,Ever,Monotherapy,2.1,1:Progressed
+P-0002485,Male,Ever,Monotherapy,7.5,1:Progressed
+P-0002546,Male,Ever,Combination,7.9,1:Progressed
+P-0002559,Female,Never,Monotherapy,1.07,1:Progressed
+P-0002637,Male,Ever,Combination,27.6,0:Not Progressed
+P-0002639,Female,Ever,Monotherapy,8.1,0:Not Progressed
+P-0002731,Female,Ever,Monotherapy,15.03,0:Not Progressed
+P-0002751,Female,Ever,Monotherapy,4.43,1:Progressed
+P-0002758,Male,Ever,Monotherapy,1.8,1:Progressed
+P-0002766,Female,Ever,Monotherapy,1.57,1:Progressed
+P-0002794,Female,Ever,Monotherapy,15.97,1:Progressed
+P-0002806,Male,Ever,Monotherapy,8.3,1:Progressed
+P-0002826,Female,Ever,Monotherapy,1.57,1:Progressed
+P-0002874,Female,Ever,Monotherapy,1.03,1:Progressed
+P-0002890,Female,Never,Monotherapy,0.37,1:Progressed
+P-0002905,Male,Ever,Monotherapy,1.63,1:Progressed
+P-0002912,Male,Never,Combination,4.33,1:Progressed
+P-0002917,Female,Ever,Monotherapy,2.57,1:Progressed
+P-0002921,Female,Ever,Monotherapy,6.63,1:Progressed
+P-0002965,Male,Ever,Monotherapy,1.17,1:Progressed
+P-0002969,Male,Ever,Monotherapy,0.73,1:Progressed
+P-0003017,Female,Never,Monotherapy,6.13,1:Progressed
+P-0003034,Male,Ever,Monotherapy,3.6,1:Progressed
+P-0003119,Male,Ever,Monotherapy,5.57,1:Progressed
+P-0003132,Female,Ever,Monotherapy,1.83,1:Progressed
+P-0003157,Male,Never,Monotherapy,0.77,1:Progressed
+P-0003229,Male,Ever,Monotherapy,19.77,0:Not Progressed
+P-0003275,Male,Ever,Monotherapy,5.53,1:Progressed
+P-0003322,Female,Never,Combination,4.23,0:Not Progressed
+P-0003347,Male,Ever,Monotherapy,6.17,1:Progressed
+P-0003368,Female,Ever,Combination,30.47,0:Not Progressed
+P-0003495,Female,Never,Monotherapy,8.67,1:Progressed
+P-0003562,Female,Ever,Monotherapy,9.2,1:Progressed
+P-0003584,Male,Ever,Monotherapy,8.33,1:Progressed
+P-0003735,Female,Ever,Monotherapy,0.87,1:Progressed
+P-0003738,Female,Never,Monotherapy,10.4,1:Progressed
+P-0003782,Male,Ever,Monotherapy,3.1,1:Progressed
+P-0003869,Female,Ever,Monotherapy,5.47,1:Progressed
+P-0003913,Female,Never,Monotherapy,0.4,1:Progressed
+P-0003964,Male,Ever,Monotherapy,2.8,1:Progressed
+P-0003970,Female,Never,Monotherapy,5.83,0:Not Progressed
+P-0004020,Female,Ever,Combination,5.13,1:Progressed
+P-0004054,Male,Ever,Monotherapy,3.17,1:Progressed
+P-0004232,Male,Ever,Monotherapy,4.63,1:Progressed
+P-0004279,Female,Never,Monotherapy,1.8,1:Progressed
+P-0004436,Male,Ever,Monotherapy,1.83,1:Progressed
+P-0004442,Male,Ever,Monotherapy,3.3,1:Progressed
+P-0004463,Male,Never,Monotherapy,1.57,1:Progressed
+P-0004472,Female,Ever,Monotherapy,4,1:Progressed
+P-0004495,Male,Ever,Monotherapy,1.07,1:Progressed
+P-0004517,Male,Never,Monotherapy,1.67,1:Progressed
+P-0004588,Male,Ever,Monotherapy,20.2,0:Not Progressed
+P-0004701,Female,Ever,Monotherapy,20,0:Not Progressed
+P-0004752,Male,Never,Monotherapy,1.8,1:Progressed
+P-0004759,Female,Ever,Monotherapy,0.67,1:Progressed
+P-0004827,Male,Ever,Monotherapy,10.47,1:Progressed
+P-0004890,Female,Ever,Monotherapy,1.83,1:Progressed
+P-0004961,Female,Ever,Monotherapy,4.37,1:Progressed
+P-0004996,Male,Never,Combination,1.83,1:Progressed
+P-0005048,Female,Never,Combination,15.07,1:Progressed
+P-0005115,Male,Ever,Monotherapy,1.83,1:Progressed
+P-0005289,Male,Ever,Monotherapy,1.23,1:Progressed
+P-0005295,Male,Ever,Monotherapy,16.9,1:Progressed
+P-0005320,Male,Ever,Monotherapy,6.57,1:Progressed
+P-0005510,Male,Ever,Monotherapy,21.13,1:Progressed
+P-0005629,Female,Ever,Monotherapy,1.73,1:Progressed
+P-0005721,Male,Ever,Monotherapy,10.43,1:Progressed
+P-0005752,Male,Ever,Monotherapy,1.8,1:Progressed
+P-0005792,Male,Ever,Monotherapy,3.23,1:Progressed
+P-0005848,Female,Ever,Monotherapy,8.63,0:Not Progressed
+P-0005898,Female,Never,Monotherapy,12.53,1:Progressed
+P-0005975,Female,Ever,Monotherapy,1.17,1:Progressed
+P-0005981,Male,Ever,Monotherapy,18.9,1:Progressed
+P-0006047,Female,Never,Monotherapy,7.8,1:Progressed
+P-0006071,Female,Ever,Monotherapy,4.73,1:Progressed
+P-0006084,Male,Never,Monotherapy,3.5,1:Progressed
+P-0006114,Female,Never,Monotherapy,1.8,1:Progressed
+P-0006294,Female,Ever,Monotherapy,0.73,1:Progressed
+P-0006312,Female,Never,Combination,15.3,0:Not Progressed
+P-0006330,Male,Never,Monotherapy,5.4,1:Progressed
+P-0006343,Female,Ever,Monotherapy,1.6,1:Progressed
+P-0006364,Male,Ever,Monotherapy,4.33,1:Progressed
+P-0006415,Male,Ever,Monotherapy,1.97,1:Progressed
+P-0006540,Male,Ever,Combination,1.67,1:Progressed
+P-0006642,Female,Ever,Monotherapy,2.7,1:Progressed
+P-0006724,Female,Ever,Monotherapy,7.37,0:Not Progressed
+P-0006768,Male,Ever,Monotherapy,4.27,1:Progressed
+P-0006895,Male,Ever,Monotherapy,9.37,0:Not Progressed
+P-0006954,Female,Ever,Monotherapy,1.63,1:Progressed
+P-0006993,Male,Ever,Monotherapy,1,1:Progressed
+P-0007084,Male,Ever,Combination,1.63,1:Progressed
+P-0007088,Female,Ever,Monotherapy,1.87,1:Progressed
+P-0007101,Male,Ever,Monotherapy,1.7,1:Progressed
+P-0007121,Female,Ever,Monotherapy,8.77,0:Not Progressed
+P-0007123,Female,Ever,Monotherapy,15.9,0:Not Progressed
+P-0007278,Female,Ever,Monotherapy,2.57,1:Progressed
+P-0007418,Female,Ever,Monotherapy,12.87,0:Not Progressed
+P-0007420,Female,Ever,Monotherapy,2.37,1:Progressed
+P-0007493,Male,Ever,Monotherapy,2.07,0:Not Progressed
+P-0007582,Male,Ever,Monotherapy,1.03,1:Progressed
+P-0007583,Female,Ever,Monotherapy,1.63,1:Progressed
+P-0007597,Male,Ever,Monotherapy,1.17,1:Progressed
+P-0007619,Male,Ever,Monotherapy,1.17,1:Progressed
+P-0007633,Male,Never,Combination,24.27,1:Progressed
+P-0007757,Female,Ever,Combination,6.33,1:Progressed
+P-0007861,Female,Never,Monotherapy,2.6,1:Progressed
+P-0007879,Female,Ever,Monotherapy,12.07,1:Progressed
+P-0007977,Female,Ever,Monotherapy,1.63,1:Progressed
+P-0007978,Female,Ever,Monotherapy,2.5,1:Progressed
+P-0008176,Female,Never,Monotherapy,1.93,1:Progressed
+P-0008239,Female,Ever,Monotherapy,15.13,1:Progressed
+P-0008295,Male,Ever,Monotherapy,3.17,1:Progressed
+P-0008322,Male,Ever,Monotherapy,2.1,0:Not Progressed
+P-0008370,Female,Ever,Monotherapy,0.9,1:Progressed
+P-0008406,Female,Ever,Monotherapy,1.17,1:Progressed
+P-0008442,Female,Never,Monotherapy,1.4,1:Progressed
+P-0008715,Male,Ever,Combination,9.1,1:Progressed
+P-0008786,Male,Never,Monotherapy,1.87,0:Not Progressed
+P-0008848,Male,Ever,Monotherapy,1.33,1:Progressed
+P-0008851,Male,Ever,Monotherapy,1.4,1:Progressed
+P-0008935,Female,Ever,Monotherapy,3.07,1:Progressed
+P-0008944,Female,Ever,Monotherapy,1.6,1:Progressed
+P-0008976,Male,Ever,Combination,22.63,1:Progressed
+P-0009080,Male,Ever,Monotherapy,1.87,1:Progressed
+P-0009202,Male,Ever,Monotherapy,3.47,0:Not Progressed
+P-0009256,Female,Ever,Monotherapy,7.47,1:Progressed
+P-0009274,Female,Ever,Combination,1,1:Progressed
+P-0009293,Female,Ever,Monotherapy,16.57,0:Not Progressed
+P-0009319,Male,Ever,Combination,13,1:Progressed
+P-0009379,Male,Ever,Monotherapy,1.03,1:Progressed
+P-0009419,Male,Ever,Monotherapy,1.73,1:Progressed
+P-0009426,Female,Ever,Monotherapy,5.53,1:Progressed
+P-0009469,Female,Never,Monotherapy,2.73,1:Progressed
+P-0009473,Male,Ever,Monotherapy,11.97,0:Not Progressed
+P-0009501,Male,Ever,Monotherapy,2.6,1:Progressed
+P-0009505,Female,Ever,Monotherapy,2.2,1:Progressed
+P-0009521,Female,Ever,Monotherapy,2.47,1:Progressed
+P-0009586,Female,Ever,Monotherapy,7.17,1:Progressed
+P-0009655,Female,Ever,Combination,8.63,1:Progressed
+P-0009680,Female,Ever,Monotherapy,5.4,1:Progressed
+P-0009763,Female,Ever,Combination,1.57,1:Progressed
+P-0009764,Female,Ever,Monotherapy,6.3,0:Not Progressed
+P-0009833,Female,Ever,Monotherapy,10.4,1:Progressed
+P-0009959,Male,Ever,Monotherapy,5.87,1:Progressed
+P-0010024,Male,Ever,Monotherapy,16.73,0:Not Progressed
+P-0010025,Female,Ever,Monotherapy,1.63,1:Progressed
+P-0010065,Male,Ever,Monotherapy,7.53,0:Not Progressed
+P-0010213,Female,Ever,Monotherapy,16.8,0:Not Progressed
+P-0010256,Female,Ever,Monotherapy,3.1,1:Progressed
+P-0010636,Male,Ever,Monotherapy,5.77,1:Progressed
+P-0010648,Male,Ever,Monotherapy,2.03,1:Progressed
+P-0010715,Male,Ever,Combination,2.77,0:Not Progressed
+P-0010736,Male,Ever,Monotherapy,9.8,1:Progressed
+P-0010760,Male,Ever,Monotherapy,5.43,1:Progressed
+P-0010840,Female,Ever,Monotherapy,0.83,1:Progressed
+P-0010891,Female,Never,Combination,1.27,1:Progressed
+P-0010986,Female,Ever,Monotherapy,2.3,1:Progressed
+P-0011033,Female,Never,Monotherapy,1.7,1:Progressed
+P-0011036,Male,Ever,Monotherapy,1.8,1:Progressed
+P-0011149,Female,Ever,Monotherapy,2.47,1:Progressed
+P-0011180,Female,Never,Monotherapy,1.83,1:Progressed
+P-0011192,Female,Ever,Monotherapy,2.27,1:Progressed
+P-0011244,Male,Ever,Monotherapy,2.1,1:Progressed
+P-0011254,Female,Ever,Combination,1.53,1:Progressed
+P-0011499,Female,Ever,Monotherapy,2.27,1:Progressed
+P-0011541,Female,Ever,Monotherapy,4.2,0:Not Progressed
+P-0011559,Male,Ever,Monotherapy,5.37,1:Progressed
+P-0012076,Male,Never,Combination,3.5,1:Progressed
+P-0012192,Female,Ever,Combination,12.8,0:Not Progressed
+P-0012373,Male,Ever,Monotherapy,1.77,1:Progressed
+P-0012427,Male,Ever,Monotherapy,1.7,1:Progressed
+P-0012629,Male,Ever,Monotherapy,4.8,1:Progressed
+P-0012729,Male,Ever,Monotherapy,4.27,1:Progressed
+P-0012817,Male,Ever,Monotherapy,7.2,0:Not Progressed
+P-0012846,Female,Ever,Monotherapy,11.3,0:Not Progressed
+P-0012849,Male,Ever,Monotherapy,1.7,1:Progressed
+P-0012866,Female,Never,Monotherapy,2.9,1:Progressed
+P-0012908,Male,Never,Monotherapy,3.6,1:Progressed
+P-0012931,Male,Ever,Monotherapy,2,1:Progressed
+P-0013653,Female,Ever,Combination,5.43,1:Progressed
+P-0014172,Male,Ever,Monotherapy,3.77,1:Progressed
+P-0014269,Male,Ever,Monotherapy,1.7,1:Progressed
+P-0014451,Female,Ever,Monotherapy,0.6,1:Progressed
+P-0014529,Female,Ever,Monotherapy,4.67,0:Not Progressed
+P-0014599,Male,Ever,Monotherapy,8.83,0:Not Progressed
+P-0014786,Female,Ever,Monotherapy,1.87,1:Progressed
+P-0014818,Male,Ever,Monotherapy,6.03,1:Progressed
+P-0015078,Female,Ever,Monotherapy,2.37,1:Progressed
+P-0015296,Male,Ever,Monotherapy,6.43,0:Not Progressed
+P-0015531,Female,Ever,Monotherapy,7.1,0:Not Progressed
+P-0015556,Male,Ever,Monotherapy,16.73,1:Progressed
+P-0015758,Female,Ever,Monotherapy,4.07,0:Not Progressed
+P-0015771,Male,Ever,Combination,3.43,1:Progressed
+P-0015780,Male,Ever,Monotherapy,1.83,1:Progressed
+P-0015785,Female,Ever,Monotherapy,4.17,1:Progressed
+P-0015984,Female,Ever,Monotherapy,1.63,1:Progressed
+P-0016033,Male,Ever,Monotherapy,5.5,0:Not Progressed
+P-0016046,Female,Never,Monotherapy,2.67,1:Progressed
+P-0016646,Male,Ever,Monotherapy,1.87,1:Progressed
+P-0016809,Female,Ever,Monotherapy,4.13,0:Not Progressed
